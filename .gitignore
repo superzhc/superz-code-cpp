@@ -156,3 +156,4 @@ CTestTestfile.cmake
 .idea/.gitignore
 .idea/**/.name
 .idea/**/misc.xml
+.idea/**/encodings.xml
