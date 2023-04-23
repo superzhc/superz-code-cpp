@@ -3,6 +3,11 @@
 //
 #include "stdio.h"
 
+struct Person {
+    char *name;
+    int age;
+};
+
 int main() {
     return 0;
 }
