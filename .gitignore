@@ -1,11 +1,15 @@
 # Prerequisites
 *.d
+*.i
 
 # Compiled Object files
 *.slo
 *.lo
 *.o
 *.obj
+
+# Assembly
+*.s
 
 # Precompiled Headers
 *.gch
@@ -104,6 +108,7 @@ fabric.properties
 # C++ ================================
  Prerequisites
 *.d
+*.i
 
 # Compiled Object files
 *.slo
